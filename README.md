@@ -8,11 +8,11 @@ The Docker image with pre-installed [MemSQL Studio](https://docs.memsql.com/v7.1
 
 To pull the image:
   
-    docker pull artum/memsql-studio
+    docker pull artum/memsql-studio:latest
 
 To run the image:
     
-    docker run --rm -it  -p 8080:8080/tcp memsql-studio
+    docker run --rm -it  -p 8080:8080/tcp artum/memsql-studio:latest
 
 To enter to the MemSQL Studio, open in the browser:
   
