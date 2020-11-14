@@ -4,7 +4,7 @@
 
 
 # memsql-studio
-The Docker image with pre-installed [MemSQL Studio](https://docs.memsql.com/v7.1/tools/memsql-studio/memsql-studio-overview/).
+The Docker image with pre-installed [MemSQL Studio](https://docs.memsql.com/v7.1/tools/memsql-studio/memsql-studio-overview/) ([official release notes](https://docs.singlestore.com/v7.1/release-notes/memsql-studio-release-notes/)).
 
 Run the image:
     
